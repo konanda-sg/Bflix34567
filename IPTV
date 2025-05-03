@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="",serve1
-https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=345816fb3bd497937d0731d8dc9f3e70eb5ada4c-5a-1745798003-1745780003
-#EXTINF:-1 tvg-logo=""group-title="",prueb2
-https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=c9313e37eb590a8353dbb0ac1b4686e5c925d4ac-4a-1745797922-1745779922
-#EXTINF:-1 tvg-logo=""group-title="",river vs boca
-https://rm8zcvk3.fubohd.com/sporttv3/mono.m3u8?token=6691e9b788a23b9f0c57a116817b92630dcc6dfe-f2-1745798059-1745780059
-
 
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
@@ -26,12 +19,12 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c3
 
 #EXTINF:-1 tvg-logo="pruebas",p8
-https://linko.uno/?v=96ca4kak6u5y
+https://Bflixfull.b-cdn.net/Series/The%20Last%20of%20Us%202/the%20(1).ts
 #EXTINF:-1 tvg-logo="",c4
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="",c7
+#EXTINF:-1 tvg-logo="pruebas",c7
 https://raw.githubusercontent.com/mo3ad801/omartv/c85e9645f98a653405c20064e5782f14c0746e83/Netflix.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
