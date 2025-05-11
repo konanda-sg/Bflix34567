@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="pruebas",pp
-https://raw.githubusercontent.com/wiryawang/tv/refs/heads/main/HBO-Series.m3u
+#EXTINF:-1 tvg-logo="pruebas",tt
+https://raw.githubusercontent.com/michelpg01/iptv19/refs/heads/main/series.m3u
 
 
 
