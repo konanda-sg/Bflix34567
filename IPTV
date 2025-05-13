@@ -24,8 +24,8 @@ https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-mo
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="pruebas",555
-https://v3.playerlatino.live/stream/m3u8/796
+#EXTINF:-1 tvg-logo="pruebas",teye
+https://raw.githubusercontent.com/MDBV2023/IPTV/refs/heads/main/Prueba2.m3u
 
 
 
