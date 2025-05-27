@@ -1,6 +1,13 @@
 #EXTM3U
 
- 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2cMu9wCWA3pqQxF4H7s11Pqlf3w.jpg",Alcatraz (2018)
+ https://archive.org/download/alcatraz-2018-1080-micro-hd-es-3-4-mbpstmdb-559700tt-7099566-esdl/Alcatraz%20%282018%29%20%5B1080%20Micro-HD%5D%5BES%5D%5B3%2C4%20Mbps%5D%5Btmdb-559700%5D%5Btt7099566%5D%5BESDL%5D.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Jy98pzupf85gnZifXVQVxUxRyR.jpg",Al Capone: Icon (2014)
 https://archive.org/download/al-capone-icon-2014-720-npi-documental-1-7-mbpstmdb-305198tt-4009232-esdl/Al%20Capone%20-%20Icon%20%282014%29%20%5B720%5D%5BNPI%5D%5BDocumental%5D%5B1%2C7%20Mbps%5D%5Btmdb-305198%5D%5Btt4009232%5D%5BESDL%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQQ0cvmAt5HU2Y3GKESkgDKCYva.jpg",100 dias con la Tata (2021)
