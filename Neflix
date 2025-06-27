@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-logo="",
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"group-title="Netflix",El juego del calamar: Temporada 2 (2024)
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",El problema de los 3 cuerpos (2024)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/elproblemadelos3cuerpos.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",Orange is the new black (2013) latino
@@ -22,8 +26,6 @@ https://archive.org/download/boku-no-hero-4/desencanto.m3u
 https://archive.org/download/la-ninera-4/misteriosinr3s0lv3r1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9OvSVH1KJQRlLzOVLEGHta9pwfX.jpg",Devilman Crybaby (2018)
 https://archive.org/download/spartacus_202412/DEVILMAN.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg"group-title="Netflix",El juego del calamar: Temporada 2 (2024)
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI TEMPORADA 6 LATINO
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cobra%20Kai%20sexta%20temporada
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCQP1El20FFncM0lIYcaW3Kq19o.jpg",3% (2016)
