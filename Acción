@@ -9,8 +9,6 @@ ____2025_____
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n78hDmtawKOvJh3YLMcC5OJr2ER.jpg",Caza al mal (2024)
-https://archive.org/download/01_20250629/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6YbTJhN5GJQOlZ1IyRiCyhKSiJE.jpg", Novocaine (2025)
 https://archive.org/download/01_20250621_20250621_2307/08.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg", Deep Cover Acto Encubierto
@@ -56,6 +54,8 @@ ______2024y2023______
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n78hDmtawKOvJh3YLMcC5OJr2ER.jpg",Caza al mal (2024)
+https://archive.org/download/01_20250629/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jtyF4NF9fQlyGP8cgU1mK3DLUTB.jpg",Basico Y Letal (2003)
 https://archive.org/download/basico-y-letal-2003-espanol-latino-full-screen-20th-century-fox/Basico%20y%20Letal%20%282003%29%20Espa%C3%B1ol%20Latino%20Full%20Screen%2020th%20Century%20Fox.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/olA39iaXISiKEkACdELgr0ZRvIF.jpg",The Raid 2 (2014)
