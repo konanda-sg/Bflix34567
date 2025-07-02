@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+HUNTER X HUNTER
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/muS2wKK3S7p2iSrpprM3chObaVB.jpg"group-title="Hunter x Hunter",Hunter x Hunter (1999)
+https://raw.githubusercontent.com/tokio14-dot/pecezuelo/refs/heads/main/Hunter%20x%20Hunter%20(1999)
+
+
 _____POKEMON___
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pXp7j8tWwIlzgF0yA1DVhMO9XA2.jpg"group-title="POKEMON",POKEMON
