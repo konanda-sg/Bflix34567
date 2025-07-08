@@ -76,6 +76,17 @@ ______LOS CABALLEROS DEL ZODIACO____
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",casa santusrio
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qVF43Xc6brE0AU4tCMxxd4D82Vz.jpg"group-title="LOS CABALLEROS DEL ZODIACO",Los Caballeros del Zodiaco: El Lienzo Perdido (2009)
+https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/El%20Lienzo%20Perdido%20(2009)
+
+#EXTINF:-1 tvg-logo=""group-title="LOS CABALLEROS DEL ZODIACO",
+
+#EXTINF:-1 tvg-logo=""group-title="LOS CABALLEROS DEL ZODIACO",
+
+
+
+
+
 ______digimon____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg"group-title="DIGIMON",Digimon: Digital Monsters (1999)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/digimon
@@ -84,8 +95,8 @@ _____ONE PIECE_____
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20piece
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLy4bn5BUsG1dN0tCIY64cF5pBI.jpg"group-title="ONE PIECE",ESPECIALES
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
-#EXTINF:-1 tvg-logo="",tmp1
-https://raw.githubusercontent.com/tokio14-dot/one/refs/heads/main/01
+#EXTINF:-1 tvg-logo="",
+
 
 ________solo leving________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
@@ -103,7 +114,6 @@ https://archive.org/download/bflixssilor-01-13/BFLIXsailormoon2014.m3u
 _______NARUTO_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3XNeBzlAYo0GsbryNHulkY52MOq.jpg"group-title="NARUTO",NARUTO
 https://raw.githubusercontent.com/tokio14-dot/naru/refs/heads/main/naru
-
 
 ________boku no hero____________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
