@@ -1,12 +1,14 @@
 #EXTM3U
 
 
+
+
+________Mushoku Tensei____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"group-title="Mushoku Tensei",Mushoku Tensei
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fHXI3fJN0ZOVw2OmLmY2t9VgV83.jpg"group-title="Mushoku Tensei",temporada 1
 https://raw.githubusercontent.com/tokio14-dot/tensei/refs/heads/main/01
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ZZf0sDRqzUq8txpbVaUYk4BNTk.jpg"group-title="Mushoku Tensei",temporada 2
-
+https://raw.githubusercontent.com/tokio14-dot/tensei/refs/heads/main/02
 ________Evangelion______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1FHZmNWcyz5zzGH2PQf1w0S4JZ1.jpg"group-title="Evangelion",Evangelion - Colección
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg"group-title="Evangelion",Neon Genesis Evangelion (1995)
