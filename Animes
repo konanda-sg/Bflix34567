@@ -252,11 +252,12 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 #EXTINF:-1 tvg-logo=""group-title="Shonen",
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wEWbxG7wFwibqKUXNdEwlet4jHw.jpg"group-title="Fantasia",TENGOKU-DAIMAKYO (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/TENGOKU-DAIMAKYO%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5zxePQEsUKLYDh2kpXGQAeInjUU.jpg"group-title="Fantasia",Steins;Gate
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Steins%3BGate
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7vke0CDL6wiERoXdQ9UEN9IuR9.jpg"group-title="Accion",Samurai Deeper Kyo (2002)
