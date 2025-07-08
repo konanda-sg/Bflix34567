@@ -257,8 +257,8 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5zxePQEsUKLYDh2kpXGQAeInjUU.jpg"group-title="Fantasia",Steins;Gate
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Steins%3BGate
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7vke0CDL6wiERoXdQ9UEN9IuR9.jpg"group-title="Accion",Samurai Deeper Kyo (2002)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Samurai%20Deeper%20Kyo%20(2002)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eHlatCGzEQaxzq6LnSxSENKHlnJ.jpg"group-title="Fantasia",Tragones y mazmorras (2024)
