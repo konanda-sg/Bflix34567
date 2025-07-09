@@ -41,9 +41,7 @@ HUNTER X HUNTER
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/muS2wKK3S7p2iSrpprM3chObaVB.jpg"group-title="Hunter x Hunter",Hunter x Hunter (1999)
 https://raw.githubusercontent.com/tokio14-dot/pecezuelo/refs/heads/main/Hunter%20x%20Hunter%20(1999)
 
-
 _____POKEMON___
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pXp7j8tWwIlzgF0yA1DVhMO9XA2.jpg"group-title="POKEMON",POKEMON
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9tAtnMG10w5NIFDMV7kPa9lUti4.jpg"group-title="POKEMON",Pokemon: La conserje Pokemon (2023)
 https://raw.githubusercontent.com/tokio14-dot/poke/refs/heads/main/La%20conserje
@@ -269,8 +267,8 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bU4k6HmvPBnqn83kiG4MtYizHio.jpg"group-title="Romance",Love After World Domination (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Love%20After%20World%20Domination%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wEWbxG7wFwibqKUXNdEwlet4jHw.jpg"group-title="Fantasia",TENGOKU-DAIMAKYO (2023)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/TENGOKU-DAIMAKYO%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5zxePQEsUKLYDh2kpXGQAeInjUU.jpg"group-title="Fantasia",Steins;Gate
