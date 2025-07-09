@@ -2,15 +2,20 @@
 
 
 
-____Dan Da Dan____
+______Dan Da Dan____
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/49oPeCBsiVtHeCZf1kx1eIynKhz.jpg"group-title="Dan da Dan",Dan da Dan
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/enlases%20dandan
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/49oPeCBsiVtHeCZf1kx1eIynKhz.jpg"group-title="Dan da Dan",Dan da Dan (2024)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/dandan01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/49oPeCBsiVtHeCZf1kx1eIynKhz.jpg"group-title="Dan da Dan",Dan da Dan (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/dandan02
 
+
+_______Voltron_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg"group-title="Voltron",Voltron: El defensor legendario (2016)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20defensor%20legendario%20(2016)
 
-________Mushoku Tensei____
+______Mushoku Tensei____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"group-title="Mushoku Tensei",Mushoku Tensei
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fHXI3fJN0ZOVw2OmLmY2t9VgV83.jpg"group-title="Mushoku Tensei",temporada 1
 https://raw.githubusercontent.com/tokio14-dot/tensei/refs/heads/main/01
