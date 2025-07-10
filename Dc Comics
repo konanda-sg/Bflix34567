@@ -1,6 +1,9 @@
 #EXTM3U
 
 (CRONOLOGIA DC)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg",Batman Ninja vs. Yakuza League (2025)
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg"group-title="", mujer maravilla
 https://dl.dropbox.com/scl/fi/vsxfmexs0gohrrg7d90ks/la-mujer-maravilla-1.mp4?rlkey=3hgisdmasp01iozaio3kh34on&st=ep4kn5qg&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v0eQLbzT6sWelfApuYsEkYpzufl.jpg"group-title="",Joker
