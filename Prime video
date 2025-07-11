@@ -2,8 +2,8 @@
 #EXTGRP:Prime video
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dstsgFyukiEUYYy2MdltmNbb6zj.jpg",menem (2025)
+https://raw.githubusercontent.com/tokio14-dot/menem/refs/heads/main/menem
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tJQokJMc9s3ww5fEui5babxUA2I.jpg",El día de mi suerte (2019)
 https://raw.githubusercontent.com/tokio14-dot/pecezuelo/refs/heads/main/El%20d%C3%ADa%20de%20mi%20suerte%20(2019)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/93aeiPZpQMxF4tlPHZpmS7cVXZt.jpg",11.22.63 (2016)
