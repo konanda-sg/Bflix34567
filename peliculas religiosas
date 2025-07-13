@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Apocalipsis
 https://archive.org/download/revelation-in-spanish.ia/Revelation%20in%20Spanish.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Juan
+https://archive.org/download/spanish-gospel-of-john-el-evangelio-de-juan/SPANISH%20%28Gospel%20of%20John%29%20El%20Evangelio%20de%20Juan.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Lucas
 https://archive.org/download/luke-in-spanish-cev/Luke%20in%20Spanish%20CEV.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Salmos
