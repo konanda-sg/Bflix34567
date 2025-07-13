@@ -78,7 +78,12 @@ https://archive.org/download/seishun-buta-la-pelicula-2019-cine-anime/Seishun%20
 https://archive.org/download/devilman-3-la-apocalisis-de-devilman-pelicula-2000-cine-anime/Devilman%203%20La%20Apocalisis%20De%20Devilman%20Pelicula%202000%20Cine%20Anime.mp4
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oj25dI6r9N31SxCN48Fvr95XyzG.jpg", tomo 1
+https://archive.org/download/ova-01-rosa-magnetica/OVA_01_Rosa%20magn%C3%A9tica.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oj25dI6r9N31SxCN48Fvr95XyzG.jpg", tomo 2
+https://archive.org/download/ova-01-rosa-magnetica/OVA_02_Bomba_apestosa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2KxBeo9ooAneMFvl3nbzQgWWtlc.jpg",Tekken: Blood vengance (2011)
 https://archive.org/download/tekken-blood-vengeance-castellano/Tekken_Blood_Vengeance_Castellano.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8ureHUuNBCxfCF5ZG2fEcNiLlR.jpg",Kimba, el león blanco (1997)
