@@ -1,9 +1,8 @@
 #EXTM3U
 
 (CRONOLOGIA DC)
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg",Superman (2025)
+https://archive.org/download/spm25/spm25.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg",Superman (2025)
 https://archive.org/download/sup3rmn-2025/Superman%202025.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg",Batman Ninja vs. Yakuza League (2025)
