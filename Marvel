@@ -1,6 +1,9 @@
 #EXTM3U
 
 (MARVEL CRONOLOGIA)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",Spider-Man: Cruzando el Multiverso (2023)
+https://dl.dropbox.com/scl/fi/tjxf14vy4yn7yo8t3hf65/carbon.mp4?rlkey=0puzrjd1w6at1zab89pnrdqpk&st=41i438rh&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",Kraven el cazador (2024)
 https://dl.dropbox.com/scl/fi/hg46qbk58gl72u9gqtrj3/K.BFLOX2024.mp4?rlkey=wbu5u3eqlt8tdj9s8p4p1k73d&st=2e6v18xd&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/i5eSA5DK5iAv53SB4yv57bN56o6.jpg"group-title="", Capitan américa: Primer vengador
@@ -115,7 +118,6 @@ https://hugh.cdn.rumble.cloud/video/s8/2/B/J/O/4/BJO4s.caa.mp4
 https://cache011.peliscdn.online/newhls/f69d91c66a772f0993c3bd5219cbd11d/EP.0.1.v0.1708936768.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFD7sEyj7ePmFEwcgFPw668ymLh.jpg"group-title="",Deadpool 1 (2016)
 https://cache016.peliscdn.online/newhls/612e42c82aba80421f2e39e0d6c203bb/EP.0.1.v2.1708686226.m3u8
-https://dl.dropbox.com/scl/fi/tjxf14vy4yn7yo8t3hf65/carbon.mp4?rlkey=0puzrjd1w6at1zab89pnrdqpk&st=41i438rh&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg"group-title="",Los 4 Fantasticos(2005)
 https://dl.dropbox.com/scl/fi/0t7i8utivu36sah674yl9/95314-1761fba1-3f1a-4680-8200-c0b5c9d52b3d-yzft-901096-doodstream.mp4?rlkey=fdstsxveajhp39s9ocn8mwtwz&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mFL0EzAhEj3vscyGUMk6sT7pfQg.jpg"group-title="",Marvel Rising: Battle Of The Band
