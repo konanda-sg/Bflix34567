@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTGRP:Prime video
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5s6OHwM0Z3VTquTaEmpCBd4G3X4.jpg",La casa David (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dstsgFyukiEUYYy2MdltmNbb6zj.jpg",menem (2025)
 https://raw.githubusercontent.com/tokio14-dot/menem/refs/heads/main/menem
