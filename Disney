@@ -3,8 +3,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tokio14-dot/imagen/refs/heads/main/Ironheart.jpg",Ironheart (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ironheart%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",Modern Family (2009)
 https://raw.githubusercontent.com/tokio14-dot/modenfamily/refs/heads/main/enlaces
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bd07nR57DHMhNl6CXaGcnojyLsI.jpg",Gravity Falls (2012)
