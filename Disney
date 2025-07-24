@@ -6,7 +6,8 @@
 
 #EXTGRP:Disney+
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",Washington Black (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Washington%20Black%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg",Ironheart (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ironheart%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4QzuQqYF7SN4H8IxqfMUfz5A64V.jpg",Camaleon: El pasado no cambia (2025)
