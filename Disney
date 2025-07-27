@@ -23,12 +23,10 @@ ________Star Wars________
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Cr%C3%B3nicas%20del%20submundo%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg", Star Wars The Acolyte (2024)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Acolyte%20(2024)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg",Star Wars Ahsoka (2023)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ahsoka%20(2023)
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="Disney+",Ahsoka
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oU1Vy0tDktgwyq2IZXdb3tvogh8.jpg", Star Wars: Cronicas del Imperio (2024)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Cr%C3%B3nicas%20del%20Imperio%20(2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg",Star Wars Ahsoka (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ahsoka%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",Star Wars Andor (2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Andor%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4bffB2YV4UxNfEifp4HxdhfJulK.jpg",,Star Wars El libro de Boba Fett (2021)
@@ -36,7 +34,7 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nQtN7cDR2QQgbleIkGkhFqXIr0X.jpg",Star Wars: Visions (2021)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Visions%20(2021)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Star Wars: La remesa mala (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmF2LqFb1Aj8jRktPdYapP7fWyx.jpg",Star Wars: La remesa mala (2021)
 https://archive.org/download/elch4v0/sTARWA.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN (2019)
