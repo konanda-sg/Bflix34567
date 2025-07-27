@@ -49,13 +49,10 @@ http://archive.org/download/ns_20210520/CLONE.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bd07nR57DHMhNl6CXaGcnojyLsI.jpg",Gravity Falls (2012)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/Gravity%20Falls
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/bflix-6_202501/Invisible%20%282024%29.jpg", invisible (2024)
 https://archive.org/download/bflix-6_202501/invisible.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2647l2VoRLhtht7jVassqj1I4PV.jpg",Perdidos (2004)
 https://archive.org/download/lost2_202411/lost2.m3u
-#EXTINF:- tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9wrHVWAwx4QvDGL6Dyvtp7N5jW9.jpg",Pedro El Escamoso 
-https://raw.githubusercontent.com/Imag7/Imgjk/main/Escamoso
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xnT8LA7DVnrJKaHX4LpgCLTTAvg.jpg" group-title="Disney+",Hawkeye
 https://archive.org/download/elch4v0/haw.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/okbeA9bKPYDmFKtooxEXR03BsSs.jpg",HECHIZEROS DE WABERLY PLACE
