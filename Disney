@@ -6,6 +6,10 @@
 
 #EXTGRP:Disney+
 
+
+
+#EXTINF:-1 tvg-logo="La aventura enredada de Rapunzel (2017)",La aventura enredada de Rapunzel (2017)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Rapunzel's%20Tangled%20Adventure%20(2017)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg",Tu amigo y vecino Spider-Man (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Tu%20amigo%20y%20vecino%20Spider-Man%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sp54jkorVJHQ52WE5U7rbNjGnrC.jpg",En la victoria o en la derrota (2025)
