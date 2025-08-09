@@ -3,7 +3,7 @@
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
-#EXTINF:-1 tvg-logo=""group-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEKEyEmzPAcROJ0JAefetuqCKDjYE_ejH8ng&s", latinoamerica 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEKEyEmzPAcROJ0JAefetuqCKDjYE_ejH8ng&s"group-title="", latinoamerica 
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Latinoam%C3%A9rica
 #EXTINF:-1 tvg-logo=""group-title="",SAGAS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
