@@ -1,6 +1,31 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Cartas%20a%20Dios%20-%20Letters%20to%20God%282010%29.jpg",Cartas a Dios (2010)
+https://archive.org/download/peliculas-cristianas_202112/Cartas%20a%20Dios%20-%20Letters%20to%20God%282010%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Desafio%20a%20los%20gigantes%20-%20Facing%20The%20Giants%20%282006%29.jpg",Desafío a los gigantes (2006)
+https://archive.org/download/peliculas-cristianas_202112/Desafio%20a%20los%20gigantes%20-%20Facing%20The%20Giants%20%282006%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Dios%20No%20Esta%20Muerto%203.jpg",Dios no está muerto 3 (2018)
+https://archive.org/download/peliculas-cristianas_202112/Dios%20No%20Esta%20Muerto%203%20-%20God%27s%20not%20dead%20A%20Light%20in%20Darkness%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Dios%20no%20esta%20muerto%201%20-%20%20God%27s%20Not%20Dead%20%282014%29.jpg",Dios no está muerto 1 (2014)
+https://archive.org/download/peliculas-cristianas_202112/Dios%20no%20esta%20muerto%201%20-%20%20God%27s%20Not%20Dead%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Dios%20no%20est%C3%A1%20muerto%202%20-%20God%27s%20Not%20Dead%202%20%282016%29.jpg",Dios no está muerto 2 (2016)
+https://archive.org/download/peliculas-cristianas_202112/Dios%20no%20est%C3%A1%20muerto%202%20-%20God%27s%20Not%20Dead%202%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/El%20Arca%20De%20Noe.jpg",El Arca de Noé
+https://archive.org/download/peliculas-cristianas_202112/El%20Arca%20De%20Noe.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/El%20Ebangelio%20segun%20san%20juan.jpg",El Evangelio según San Juan
+https://archive.org/download/peliculas-cristianas_202112/El%20Ebangelio%20segun%20san%20juan.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/La%20Biblia%2C%20En%20el%20principio%20-%20The%20Bible%20In%20the%20Beginning%20%281966%29.jpg",La Biblia: En el principio (1966)
+https://archive.org/download/peliculas-cristianas_202112/La%20Biblia%2C%20En%20el%20principio%20-%20The%20Bible%20In%20the%20Beginning%20%281966%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/La%20Pasion%20de%20Cristo%20-%20The%20Passion%20of%20the%20Christ%20%282004%29.jpg",La Pasión de Cristo (2004)
+https://archive.org/download/peliculas-cristianas_202112/La%20Pasion%20de%20Cristo%20-%20The%20Passion%20of%20the%20Christ%20%282004%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/La%20Vida%20Publica%20de%20Jesus%20-%20Jesus%20%281979%29.jpg",La Vida Pública de Jesús (1979)
+https://archive.org/download/peliculas-cristianas_202112/La%20Vida%20Publica%20de%20Jesus%20-%20Jesus%20%281979%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Milagros%20del%20cielo%20-%20Miracles%20from%20Heaven%20%282016%29.jpg",Milagros del cielo (2016)
+https://archive.org/download/peliculas-cristianas_202112/Milagros%20del%20cielo%20-%20Miracles%20from%20Heaven%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/peliculas-cristianas_202112/Si%20solo%20pudiera%20imaginar%20-%20I%20Can%20Only%20Imagine%20%282018%29.jpg",Si solo pudiera imaginar (2018)
+https://archive.org/download/peliculas-cristianas_202112/Si%20solo%20pudiera%20imaginar%20-%20I%20Can%20Only%20Imagine%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Enfrentando_temores-477537975-large.jpg",Enfrentando temores
 https://archive.org/download/enfrentando.-temores.-2006.-dvdrip.-xvi-d.-lati-no_202506/Enfrentando.Temores.2006.DVDRip.XViD.LATiNO.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Apocalipsis
