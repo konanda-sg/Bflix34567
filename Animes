@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 
 
@@ -101,6 +101,10 @@ ___LOS CABALLEROS DEL ZODIACO____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO(1986)
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",casa santuario
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",V2
+https://raw.githubusercontent.com/Valchrist23/VikTV/c22b207aab1db9143d983f0978584a059697e590/saintseiya.m3u
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",Los Caballeros del Zodiaco (1986)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
