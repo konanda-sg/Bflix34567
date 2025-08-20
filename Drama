@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36vJ9mzYBGarxRCi6vgG7Sf96Ig.jpg",La estrella que perdí (2024)
+https://archive.org/download/la-estrella-que-perdi-latino/La%20estrella%20que%20perd%C3%AD%20Latino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mfg4zmnC12tzRHRgc7ufkQiHBKT.jpg",Weekend (2024)
 https://archive.org/download/weekend-latino-hdfull/Weekend%20Latino%20-%20HDFull.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n1FDVrDlgVHgm3IXGMmTZRXQmvI.jpg",La noche siempre llega (2025)
