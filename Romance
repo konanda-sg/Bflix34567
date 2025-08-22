@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/byaHR8fouGDdxxFIfzfx6Jr4Z6b.jpg",One Hit Wonder (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",My Oxford Year (2025)
 https://archive.org/download/mi-ano-en-oxford-online-castellano/Mi%20a%C3%B1o%20en%20Oxford%20Online%20Castellano.mp4
