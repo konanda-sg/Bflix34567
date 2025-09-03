@@ -1,7 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3bVMsq7jOsBAY2mlAkzkeQkf4M8.jpg",Los buenos modales (2025)
+https://dl.dropbox.com/scl/fi/h6113f8puvyj7vh8zykfg/matematica.mp4?rlkey=3k4gwncyoo920xlc6k8ehhdl2&st=lgsg7ai7&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fm1OLfRgqTMAnOJxlnYg1QiBUp2.jpg",La muerte de Belle (2025)
 https://dl.dropbox.com/scl/fi/1mxjw9s1jbpruyu1rcbi2/matematica.mp4?rlkey=b93qsu76cbhg4hnfrhivlusle&st=g92qww1v&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/931RWObebU1Y4EUS2fpwmZQRGPs.jpg",Enemigos (2025)
