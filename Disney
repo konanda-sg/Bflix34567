@@ -7,8 +7,8 @@
 #EXTGRP:Disney+
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yueXS3q8BtoWekcHOATFHicLl3e.jpg",Alien Earth (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Alien%20Earth%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",Los asesinatos de Breslau (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Los%20asesinatos%20de%20Breslau%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kapSJwIzMBJ81HQxCbAvHRUdn3h.jpg",La chica robada (2025)
