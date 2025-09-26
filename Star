@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Nada%
 https://raw.githubusercontent.com/tokio14-dot/simp/refs/heads/main/simp
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Star+",Chucky temporada 3 latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chucky
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fDPo0qqRLX5VkeprfJB19ZeBTsR.jpg" group-title="Star+",Chucky temporada 3 (2023) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/chucky%20temporada%203
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
 https://archive.org/download/elch4v0/domi.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-walking-dead.jpg" group-title="Star+",the walking dead
