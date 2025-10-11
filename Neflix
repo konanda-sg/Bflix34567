@@ -2,7 +2,8 @@
 #EXTGRP: Netflix
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3V4oTRAnOnp8irVHaQeO7JkYzx.jpg"group-title="Netflix",incontrolables (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/incontrolables%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg"group-title="Netflix",Genio, pide un deseo (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Genio%2C%20pide%20un%20deseo%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg"group-title="Netflix",Monster The Ed Gein Story (2025)
