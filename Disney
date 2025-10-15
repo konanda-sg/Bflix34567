@@ -6,6 +6,15 @@
 
 #EXTGRP:Disney+
 
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg",La suerte Una serie de casualidades (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/La%20suerte%20Una%20serie%20de%20casualidades%20(2025)
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eWPPYOAl8eSFTW3c4pycGSMKLig.jpg",Marvel Zombies (2025) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Marvel%20Zombies
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yueXS3q8BtoWekcHOATFHicLl3e.jpg",Alien Earth (2025)
