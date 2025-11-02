@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXYGRP:FAMILIAR
+#EXTGRP:FAMILIAR
 
 #EXTINF:-1 tvg-logo="",
 
@@ -25,7 +25,7 @@ https://archive.org/download/mas-alla-de-los-suenos_202507/m%C3%A1s%20all%C3%A1%
 
 #Accion
 
-
+#EXTGRP: ACCIÓN 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aMgW99ojHwIQkPEVGnwiO6vJvLY.jpg"group-title="Accion",desafío total (1990)
 https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg" group-title="Accion",Robocop 1 (1987) 720p latino
@@ -123,7 +123,7 @@ https://dl.dropboxusercontent.com/scl/fi/ergzvhn9iyj8oxrs9a1y5/M41NETI4REA1S-V4E
 
 #Infantiles
 
-
+#EXTGRP: INFANTILES 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/etctWkYFfP7voGM3rd7uqxQJavY.jpg" group-title="Infantiles",El Guardian De Las Palabras (1994) 720p latino
 https://dl.dropbox.com/scl/fi/jf4sth4meu7vzzoc5dr0z/seg-1-v1-a1.mp4?rlkey=jk6y19767k4z22v3229z517zs&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg" group-title="Infantiles",La Sirenita (1989) 720p latino
