@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",Edén
+https://archive.org/download/fisica-cuantica-2/fisica%20cuantica%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg",Mr. K
+https://archive.org/download/fisica-cuantica-2/fisica%20cuantica%20%286%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x4Clc08pw5UJEzK2fM6yy6HdrKr.jpg",Cuatro madres (2025)
 https://dl.dropbox.com/scl/fi/l6ttcm80gs5rdwvd0gs06/matematica.mp4?rlkey=1m5ui0ghqipbglxdo00tzt0n5&st=wjuhofvf&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2xJMwrYBge97v4v3W2K5gCotuG1.jpg",Mr. Burton (2025)
