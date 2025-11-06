@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 --------PRUEBA__________
 #EXTINF:-1 tvg-logo=""group-title="prueba",R2222
 https://raw.githubusercontent.com/fuzmik/a1xmedia-m3u/refs/heads/main/a1x.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",ac3
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/prueba
+#EXTINF:-1 tvg-logo=""group-title="prueba",rack
+https://ia902703.us.archive.org/24/items/r-31-c-0-c-1-ord-o-1-f-r-1-agna-1-krok-10/R31C0C1ORD%20O1F%20R1AGNA1KROK%202.mp4
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 
