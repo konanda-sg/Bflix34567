@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w3jnacmMmfOem8RAgz9h1h1T4Wa.jpg",Apocalypse in the Tropics (2025)
+https://archive.org/download/apocalipsis-en-los-tropicos-2025/Apocalipsis%20en%20los%20tr%C3%B3picos%20%282025%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a6AMhzCY0vlnO9KSbawvGg7c2y.jpg",The Partisan (2025)
 https://archive.org/download/06_20251017/rpm/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s957ItI2gF9hDFIo1dGaVIK4DIy.jpg",Denzel Washington Falling Forward
