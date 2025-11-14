@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFI
 https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",prueba
+#EXTINF:-1 tvg-logo=""group-title="prueba",prueba 2
 https://ultraflixcontent.rf.gd/cdproxy/reproductor.php?encode=R572LY9RwFZj2Yp&key=ultraflix&descargar=1
 
 ........ TV.....
