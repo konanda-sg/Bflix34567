@@ -12,6 +12,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/svXvFanF718EaHk8UG7NHHIZMUl.jpg",50 Seconds: The Fernando Báez Sosa Case (2025)
+https://dl.dropbox.com/scl/fi/7fvdib4ye3y9uhqlpljs9/50-Seconds-The-Fernando-B-ez-Sosa-Case-2025?rlkey=nyhu429iarcgsygd19s1a9e4w&st=pn1w5w83&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/79CMa8JkC3xULWdvgwTnTUEoTsR.jpg"group-title="Netflix",fake(2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/fake(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg"group-title="Netflix",The Witcher (2019)
