@@ -1,7 +1,7 @@
  #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",Tougen Anki (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg"group-title="Tougen Anki",Tougen Anki (2025)
 https://dl.dropbox.com/scl/fi/vjl2byz51uzyo08jblk32/Tougen-Anki-2025?rlkey=gh1b4u89rr4c4ppslg3bhbvxx&st=m1w8rtw2&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg"group-title="Tokyo Ghoul",Tokyo Ghoul
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Tokyo%20Ghoul
