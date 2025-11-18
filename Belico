@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sSlGFy0MOrvoOEiUbQztiVyf5AF.jpg",Selena y Los Dinos: A Family's Legacy (2025)
+https://pomf2.lain.la/f/bdijxi4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",Lefter La historia de un maestro (2025)
 https://dl.dropbox.com/scl/fi/8zlcozklkfvxuo3ep26nd/f-sica.mp4?rlkey=uef1mfj9ct657pxq8pdjdhbpq&st=4f1tf661&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bAAdoOyCm3DqrOyj0h2icPpeHHw.jpg",Being Eddie (2025)
