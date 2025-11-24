@@ -1,7 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vI8gfZVhPnYo0gjK6vSP7p3idpV.jpg",Wicked: One Wonderful Night (2025)
+https://pomf2.lain.la/f/1ux88b41.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/44SilWENNuLA8OO0yfLRQWEJfNx.jpg",Hijos (2024)
 https://pomf2.lain.la/f/vyqxpxuc.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kBbKJKBL2Y32SL5BcqILcyOnzI2.jpg",Muertes de la familia Carman (2025)
