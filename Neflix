@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg"group-title="Netflix",Hija del fuego (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Hija%20del%20fuego%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg"group-title="Netflix",La bestia en mí (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/La%20bestia%20en%20m%C3%AD%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"group-title="Netflix",Stranger Things (2016)
@@ -14,7 +15,6 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20ultimo%20samurai%20en%20pie%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/svXvFanF718EaHk8UG7NHHIZMUl.jpg"group-title="Netflix",50 Seconds: The Fernando Baez Sosa Case (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/50%20Seconds%20The%20Fernando%20B%C3%A1ez%20Sosa%20Case%20(2025)
-
 #EXTINFNF:-1 tvg-logo="https://image.tmdb.org/t/p/original/79CMa8JkC3xULWdvgwTnTUEoTsR.jpg"group-title="Netflix",fake(2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/fake(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg"group-title="Netflix",The Witcher (2019)
