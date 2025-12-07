@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wMckWiOI0YIiww5ho31eB1a7qd4.jpg",No Lo Escuches (2025)
+https://archive.org/download/no-lo-escuches-720/No%20Lo%20Escuches%20720.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nyGKQrctWNmhSvto8h60AhZ3iLz.jpg",Succubus (2024)
 https://pomf2.lain.la/f/dif4fg5m.mp4
 #EXTINF:-1 tvg-logo="https://img.aullidos.com/imagenes/caratulas/la-cita-poster-sp.jpg",La Cita (2025)
