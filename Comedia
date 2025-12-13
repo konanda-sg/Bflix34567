@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1S9pjiZejBiSVV88qU59ifZ7q0N.jpg",Blood, White & Blue (2022)
+https://dl.dropbox.com/scl/fi/0p87e3p9ek8xognszr5pu/f-sica.mp4?rlkey=ejubdt8zftu7x8jzo4nl4yg8e&st=0t1sxznj&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v64pw0k8FvWb7fvfpWCNj8il8Ei.jpg",Everything's Going to Be Great (2025)
 https://pomf2.lain.la/f/xzqydb8j.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oByEpwQEU0gtSzVO8nVTyu8fmjm.jpg",The Fakenapping (2025)
