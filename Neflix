@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/15g7XBiKyzHh9D6ZV5kls5JyVJz.jpg"group-title="Netflix",Man vs Baby (2025)
+https://dl.dropbox.com/scl/fi/il376vk9yb0lkpric8cwk/Man-vs-Baby-2025?rlkey=qi21q0gz9f5u2dl9l0ip19ljr&st=ilr93woo&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg"group-title="Netflix",Los abandonos (2025)
 https://dl.dropbox.com/scl/fi/umyq6bejlh89gbn302llv/Los-abandonos-2025?rlkey=q6efo9c503a2n1f0z6nxfbgx5&st=koyhmfgv&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg"group-title="Netflix",Cobra Kai (2018)
