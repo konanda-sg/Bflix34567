@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg"group-title="Netflix",Los abandonos (2025)
+https://dl.dropbox.com/scl/fi/umyq6bejlh89gbn302llv/Los-abandonos-2025?rlkey=q6efo9c503a2n1f0z6nxfbgx5&st=koyhmfgv&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg"group-title="Netflix",Cobra Kai (2018)
 https://dl.dropbox.com/scl/fi/320hfjbi4cvl64b7i0aza/cobra-kai-6.m3u?rlkey=x9gy51e2n4oe2ff4hhnxkc7x5&st=0kn54gb0&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg"group-title="Netflix",Hija del fuego (2025)
